@@ -3396,4 +3396,8 @@
 116.214.11.98	tw.mobi.yahoo.com
 # Yahoo End
 
+# Github CDN Start
+151.101.76.249 github.global.ssl.fastly.net
+# Github CDN End
+
 # Modified hosts end
